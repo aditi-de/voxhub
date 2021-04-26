@@ -187,3 +187,9 @@ a {
         width: 100%;
     }
 }
+@media (max-width:768px) {
+    .link-8nomu {
+        margin: 8px;
+        font-size: 36px;
+    }
+}
