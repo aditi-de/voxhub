@@ -193,7 +193,7 @@ a {
         font-size: 36px;
     }
 }
-.wave {
+/* .wave {
   animation-name: wave-animation;  
   animation-duration: 2.5s;        
   animation-iteration-count: infinite; 
@@ -210,4 +210,4 @@ a {
    50% { transform: rotate(10.0deg) }
    60% { transform: rotate( 0.0deg) }
   100% { transform: rotate( 0.0deg) }
-}
+} */
