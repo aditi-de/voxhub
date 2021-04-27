@@ -196,7 +196,7 @@ a {
 }
 .wave {
   animation-name: wave-animation;  
-  animation-duration: 10s;        
+  animation-duration: 4s;        
   animation-iteration-count: 2; 
   transform-origin: 70% 70%;
   display: inline-block;
