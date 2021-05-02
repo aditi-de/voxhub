@@ -177,7 +177,8 @@ a {
 }
 
 .span-i5mp4 {
-    margin: 8px;
+    width: 70%;
+   /* margin: 8px; */
     color: #f2b2ca;
     font-size: 24px;
     font-weight: 900;
