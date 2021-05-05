@@ -20,11 +20,11 @@
     padding-bottom: 16px;
     padding-left: 24px;
     margin-bottom: 0px;
-    color: #e6ebff;
-    background-color: #ff89ff;
+    color: #e6ecc5;
+    background-color: #f2b2ca;
     border-width: 3px;
     border-style: none;
-    box-shadow: 8px 8px 0 0px #ff4f2d;
+    box-shadow: 8px 8px 0 0px #bbb809;
 }
 
 
@@ -167,19 +167,19 @@ a {
 
 .heading3-axct7 {
     font-size:28px;
-    color: #ff89ff;
+    color: #bbb809;
 }
 
 .paragraph-gondx {
     font-size: 24px;
-    color: #7894ff;
+    color: #ffffff;
     font-weight: 700;
 }
 
 .span-i5mp4 {
     width: 70%;
    /* margin: 8px; */
-    color: #ff4f2d;
+    color: #f2b2ca;
     font-size: 24px;
     font-weight: 900;
 }
