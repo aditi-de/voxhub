@@ -20,11 +20,11 @@
     padding-bottom: 16px;
     padding-left: 24px;
     margin-bottom: 0px;
-    color: #e6ecc5;
-    background-color: #f2b2ca;
+    color: #e6ebff;
+    background-color: #ff89ff;
     border-width: 3px;
     border-style: none;
-    box-shadow: 8px 8px 0 0px #bbb809;
+    box-shadow: 8px 8px 0 0px #ff4f2d;
 }
 
 
@@ -135,7 +135,7 @@ a {
     background-attachment: fixed;
     color: #e6ecc5;
     background-position-x: 50%;
-    background-color: #222222;
+    background-color: #E6EBFF;
 }
 
 .header-gix7t {
@@ -167,19 +167,19 @@ a {
 
 .heading3-axct7 {
     font-size:28px;
-    color: #bbb809;
+    color: #ff89ff;
 }
 
 .paragraph-gondx {
     font-size: 24px;
-    color: #ffffff;
+    color: #7894ff;
     font-weight: 700;
 }
 
 .span-i5mp4 {
     width: 70%;
    /* margin: 8px; */
-    color: #f2b2ca;
+    color: #ff4f2d;
     font-size: 24px;
     font-weight: 900;
 }
