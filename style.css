@@ -21,10 +21,10 @@
     padding-left: 24px;
     margin-bottom: 0px;
     color: #e6ecc5;
-    background-color: #d5ef5a;
+    background-color: #F15826;
     border-width: 3px;
     border-style: none;
-    box-shadow: 8px 8px 0 0px #f0f1b0;
+    box-shadow: 8px 8px 0 0px #E1FD2C;
 }
 
 
@@ -135,7 +135,7 @@ a {
     background-attachment: fixed;
     color: #e6ecc5;
     background-position-x: 50%;
-    background-color: ##dcceef;
+    background-color: #EDD5EB;
 }
 
 .header-gix7t {
@@ -167,19 +167,19 @@ a {
 
 .heading3-axct7 {
     font-size:28px;
-    color: #d5ef5a;
+    color: #F15826;
 }
 
 .paragraph-gondx {
     font-size: 24px;
-    color: #f0f1b0;
+    color: #F15826;
     font-weight: 700;
 }
 
 .span-i5mp4 {
     width: 70%;
    /* margin: 8px; */
-    color: #d5ef5a;
+    color: #F15826;
     font-size: 24px;
     font-weight: 900;
 }
