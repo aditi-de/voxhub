@@ -21,10 +21,10 @@
     padding-left: 24px;
     margin-bottom: 0px;
     color: #e6ecc5;
-    background-color: #f2b2ca;
+    background-color: #d5ef5a;
     border-width: 3px;
     border-style: none;
-    box-shadow: 8px 8px 0 0px #bbb809;
+    box-shadow: 8px 8px 0 0px #f0f1b0;
 }
 
 
@@ -80,7 +80,7 @@ body {
 }
 
 .Secondary {
-    background-color: #fbfbfb;
+    background-color: #dcceef;
 }
 
 footer {
@@ -162,24 +162,24 @@ a {
 .bold-an72e {
     font-size: 18px;
     box-shadow: 0 0 0 0 #000000;
-    color: #222222;
+    color: #f0f1b0;
 }
 
 .heading3-axct7 {
     font-size:28px;
-    color: #bbb809;
+    color: #d5ef5a;
 }
 
 .paragraph-gondx {
     font-size: 24px;
-    color: #ffffff;
+    color: #f0f1b0;
     font-weight: 700;
 }
 
 .span-i5mp4 {
     width: 70%;
    /* margin: 8px; */
-    color: #f2b2ca;
+    color: #d5ef5a;
     font-size: 24px;
     font-weight: 900;
 }
